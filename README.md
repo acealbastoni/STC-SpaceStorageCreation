@@ -32,7 +32,7 @@
   - go to root bath 
   - open terminal 
   - write command: docker compose up -d
-  
+
 ## API Endpoints
 
 - **Create Space**
@@ -89,5 +89,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-[License information]
+Appache License, written and developed by Mohamed Abdelhamid
 
