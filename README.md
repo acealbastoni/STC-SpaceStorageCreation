@@ -1,10 +1,16 @@
-# (Task#1)  STC-SpaceStorageCreation
-# (Task#2)  STC-SpaceStorageCreation
+# (Task#1)  Problem solving
+- Problem solving :
+- solved under the pacakge: com.reverse.parentheses.task
+- file name: STC_ReverseParentheses
+# (Task#2)  Database query
+- solved under the pacakge: com.sql.query.task
+- file name: stc.SQL
+
 # (Task#3)  STC-SpaceStorageCreation
 
-# Project Name
+# Project Name: SpaceStorageCreation
 
-[Description of your project]
+ A springBoot Project for creating structure of a storage space 
 
 ## Table of Contents
 
