@@ -7,9 +7,7 @@
 - solved under the pacakge: com.sql.query.task
 - file name: stc.SQL
 
-# (Task#3)  STC-SpaceStorageCreation
-
-# Project Name: SpaceStorageCreation
+# (Task#3) Project Name: STC-SpaceStorageCreation
 
  A springBoot Project for creating structure of a storage space 
 
